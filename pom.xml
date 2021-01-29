@@ -99,7 +99,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>gestion_des_patients_docker_jenkins_integretion</finalName>
 	</build>
 
 </project>
