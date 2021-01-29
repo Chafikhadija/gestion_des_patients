@@ -39,4 +39,5 @@ public class GestionDesPatientsApplication  implements CommandLineRunner{
 	
 		patientsDate.getContent().forEach(p->{
 			System.out.println(p.toString());
+			
 		});}}
