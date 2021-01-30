@@ -16,6 +16,8 @@ class GestionDesPatientsApplicationTests {
 		logger.info("test case executing...");
 		logger.info("test case executing with continue integration...");
 		logger.info("another continue integration...");
+		logger.info("another continue integration111111...");
+
 
 
 		assertEquals(true, true);
