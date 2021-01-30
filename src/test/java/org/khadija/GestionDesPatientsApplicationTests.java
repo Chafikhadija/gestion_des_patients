@@ -15,6 +15,8 @@ class GestionDesPatientsApplicationTests {
 	void contextLoads() {
 		logger.info("test case executing...");
 		logger.info("test case executing with continue integration...");
+		logger.info("another continue integration...");
+
 
 		assertEquals(true, true);
 	}
