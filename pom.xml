@@ -99,7 +99,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker-jenkins-integration-sample</finalName>
+		<finalName>docker-jenkins-integration-gestion-des-patients</finalName>
 	</build>
 
 </project>
